@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lights on Nicolas Segui - Portfolio and Blog</title><link>https://salocin30.github.io/tags/lights/</link><description>Recent content in Lights on Nicolas Segui - Portfolio and Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Jun 2024 08:06:25 +0600</lastBuildDate><atom:link href="https://salocin30.github.io/tags/lights/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Summary</title><link>https://salocin30.github.io/posts/project-summary/</link><pubDate>Sat, 08 Jun 2024 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/project-summary/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Greeting! This is an introduction post. This post tests the followings:&lt;/p>
+&lt;ul>
+&lt;li>Hero image is in the same directory as the post.&lt;/li>
+&lt;li>This post should be at top of the sidebar.&lt;/li>
+&lt;li>Post author should be the same as specified in &lt;code>author.yaml&lt;/code> file.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="software-control-room">Software Control Room&lt;/h2>
+&lt;h3 id="rtbf-cr42">RTBF CR42&lt;/h3>
+&lt;p>&lt;a href="https://salocin30.github.io/posts/software-control-room/rtbf-cr42">CR42&lt;/a>&lt;/p>
+&lt;h3 id="ebu">EBU&lt;/h3>
+&lt;p>&lt;a href="https://salocin30.github.io/posts/software-control-room/ebu">EBU&lt;/a>&lt;/p>
+&lt;h3 id="nato">NATO&lt;/h3>
+&lt;p>&lt;a href="https://salocin30.github.io/posts/software-control-room/nato">Nato&lt;/a>&lt;/p>
+&lt;!--
+&lt;img src="https://salocin30.github.io/posts/cyclo-disco/hero.jpg"
+alt="A boat at the sea"
+width="600"
+height="400"
+class="center"
+>
+&lt;div style="margin-top: 3rem;">&lt;/div> -->
+&lt;hr>
+&lt;h2 id="light-and-audio-projects">Light and Audio Projects&lt;/h2>
+&lt;hr>
+&lt;h3 id="audio">Audio&lt;/h3>
+&lt;h4 id="dansing---mobile-bike-karaoke">Dansing - Mobile Bike Karaoke&lt;/h4>
+&lt;p>&lt;a href="https://salocin30.github.io/posts/audio/dansing"> Mobile Bike Karaoke&lt;/a>&lt;/p></description></item><item><title>Cyclo Disco</title><link>https://salocin30.github.io/posts/light/cyclo-disco/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/light/cyclo-disco/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Greeting! This is an introduction post. This post tests the followings:&lt;/p>
+&lt;ul>
+&lt;li>Hero image is in the same directory as the post.&lt;/li>
+&lt;li>This post should be at top of the sidebar.&lt;/li>
+&lt;li>Post author should be the same as specified in &lt;code>author.yaml&lt;/code> file.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://salocin30.github.io/posts/introduction">Led Bar Kit&lt;/a>&lt;/p>
+&lt;h2 id="pictures">Pictures&lt;/h2>
+&lt;br>
+&lt;img src="https://salocin30.github.io/posts/cyclo-disco/images/hero.jpg"
+alt="A boat at the sea"
+width="600"
+height="400"
+class="center"
+>
+&lt;div style="margin-top: 3rem;">&lt;/div></description></item></channel></rss>
