@@ -1,13 +1,13 @@
 ---
-title: "The Talking Tree"
-date: 2020-06-08T08:06:25+06:00
+title: "Workbench"
+date: 2024-06-08
 description: Sample post with multiple images, embedded video etc.
 menu:
   sidebar:
-    name: The Talking Tree
-    identifier: talking-tree
-    parent: light
-    weight: 7
+    name: Workbench
+    identifier: workbench
+    parent: woodworking
+    weight: 2
 hero: images/hero.jpg
 tags:
 - Markdown
