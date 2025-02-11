@@ -7,9 +7,9 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Nicolas Segui.
+description: Portfolio et Blog de Nicolas Segui.
 
-navBarTitle: "Nicolas Segui - Portfolio and Blog"
+navBarTitle: "Nicolas Segui - Portfolio et Blog"
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
@@ -23,8 +23,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Nicolas Segui - Portfolio and Blog
+  title: Nicolas Segui - Portfolio et Blog
   type: website
-  description: Portfolio and personal blog of Nicolas Segui.
+  description: Portfolio et Blog de Nicolas Segui.
   image: images/author/nico.png
   url: https://salocin30.github.io

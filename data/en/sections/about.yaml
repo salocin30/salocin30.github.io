@@ -20,15 +20,15 @@ designation: Electronic Engineer turned Software Developper and Maker
 # a summary about you
 summary: 'As a software developper, I specialize in creating tools for the Broadcast and Pro AV industries. Those includes software control room, audio and video processing solutions, web based user interfaces. My clients includes :
 <ul>
-  <li>RTBF - award wining [CR42](/posts/introduction) software control room project</li>
-  <li>European Broadcast Union - [video compositing tool](/posts/introduction)</li>
-  <li>NATO - [conference center tools](/posts/introduction)</li>
+  <li>RTBF - award wining [CR42](/posts/software-control-room/rtbf-cr42) software control room project</li>
+  <li>European Broadcast Union - [video compositing tool](/posts/software-control-room/ebu)</li>
+  <li>NATO - [conference center tools](/posts/software-control-room/nato)</li>
 </ul>
 As a maker, I build objects that combine light and sound and are often portable and battery powered. They offer unique experiences to the people who interacts with them. Have a look at those fun projects :<br><br>
 <ul>
-  <li>[The Talking Tree](/posts/light/talkingtree)</li>
+  <li>[The Talking Tree](/posts/light/talking-tree)</li>
   <li>[Dansing - Mobile Bike Karaoke](/posts/audio/dansing)</li>
-  <li>[Bright Dan - LED magic](/posts/light/brightdan)</li>
+  <li>[Bright Dan - LED magic](/posts/light/light-summary)</li>
 </ul>
 
 Or check the [project summary](/posts/project-summary) for a global view'

@@ -1,10 +1,10 @@
 ---
-title: "Light Summary"
+title: "Bright Dan - Playing with Light"
 date: 2024-06-08
 description: Sample post with multiple images, embedded video etc.
 menu:
   sidebar:
-    name: Light Summary
+    name: Bright Dan
     identifier: light-summary
     parent: light
     weight: 1

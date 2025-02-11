@@ -153,31 +153,4 @@ projects:
   timeline: "Jun 2019 - Present"
   summary: "[Viva for life Bike](/posts/interactive/viva-for-life)"
   tags: ["personnal","interactive"]
-
-- name: The Quiz
-  logo: /images/sections/projects/quiz.jpg
-  role: Maker, Developper and Host
-  timeline: "Jun 2019 - Present"
-  summary: "[The Quiz](/posts/entertainement/quiz)"
-  tags: ["personnal","entertainement"]
-
-- name: La vélodie du bonheur
-  logo: /images/sections/projects/bike.jpg
-  role: Project Management and Host
-  timeline: "Jun 2019 - Present"
-  summary: "[La vélodie du bonheur](/posts/entertainement/velodie)"
-  tags: ["personnal","entertainement"]
-
-- name: Schweitz'air Festival
-  logo: /images/sections/projects/festival.png
-  role: Project Management and Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Schweitz'air Festival](/posts/entertainement/schweitzair)"
-  tags: ["personnal","woodworking"]
-
-- name: Workbench
-  logo: /images/sections/projects/screwdriver.png
-  role: Project Management and Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Schweitz'air Festival](/posts/entertainement/schweitzair)"
-  tags: ["personnal","woodworking"]
+  #########  Viva for life bike, Le quiz, Véodie du bonheur, Schweitz'air, workbench, 
