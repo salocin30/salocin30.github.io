@@ -59,3 +59,7 @@ The average energy stored in an ebike battery is 400Wh. What can you do with tha
 Clearly not my main use case but this highlight the fact that heating requires a LOT of energy.
 
 ## 1KwH li-ion battery
+
+While scouting for batteries, I thought for a day that I had found a goldmine in a bike repair shop. ~50 defective VanMoof batteries ! More than 12KwH of energy storage. 
+I took two home to test the cells and in the meantime, i was told they could not give them to me and had to ship them back to the supplier.
+
