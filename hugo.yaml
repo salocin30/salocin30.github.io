@@ -1,7 +1,7 @@
 baseURL: https://salocin30.github.io
 
-languageCode: bn
-title: "Nicolas Segui - Portfolio and Blog"
+languageCode: en
+title: "Nicolas Segui"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Nicolas Segui - Portfolio and Blog"
+    title: "Nicolas Segui"
     weight: 1
   fr:
     languageCode: fr
     languageName: Français
-    title: "Nicolas Segui - Portfolio et Blog"
+    title: "Nicolas Segui"
     weight: 2
 # default language for the content
 defaultContentLanguage: en

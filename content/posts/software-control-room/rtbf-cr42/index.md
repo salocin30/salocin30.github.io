@@ -23,6 +23,8 @@ This sample post tests the followings:
 - Hero image and other images are in `images` folder inside this post directory.
 - Different media rendering like image, tweet, YouTube video, Vimeo video etc.
 
+<a href="https://tech.ebu.ch/news/2021/03/cr42-the-control-room-reimagined">EBU award wining</a>
+
 ### Image Sample
 
 {{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}

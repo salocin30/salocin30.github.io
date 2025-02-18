@@ -16,14 +16,16 @@ buttons:
   filter: "professional"
 - name: Personnal
   filter: "personnal"
+- name: Software Control Room
+  filter: "softwarecontrolroom"
 - name: Audio
   filter: "audio"
 - name: Light
   filter: "light"
-- name: Software Control Room
-  filter: "softwarecontrolroom"
 - name: Interactive
   filter: "interactive"
+- name: Entertainement
+  filter: "Entertainement"
 
 
 # your projects
@@ -37,147 +39,135 @@ projects:
 #   summary: A Hugo theme for personal portfolio.
 #   tags: ["hobby","hugo","theme","professional"]
 
+- name: Photobooth
+  logo: /images/sections/projects/photobooth.jpg
+  role: Maker and Developper
+  timeline: "Apr 2024 - Present"
+  summary: "[Photobooth](/posts/interactive/photobooth)"
+  tags: ["personnal","interactive"]
+
+- name: Jacqueline / Chiva
+  logo: /images/sections/projects/brightdan.png
+  role: Maker
+  timeline: "Apr 2024"
+  summary: "[Jacqueline/Chiva](/posts/light/jacqueline-chiva)"
+  tags: ["personnal","light"]
+
+- name: Camping 58
+  logo: /images/sections/projects/camping.jpg
+  role: Maker and Developper
+  timeline: "Mar 2024"
+  summary: "[Camping 58](/posts/light/camping-58)"
+  tags: ["personnal","light","entertainement"]
+
+- name: La vélodie du bonheur
+  logo: /images/sections/projects/bike.jpg
+  role: Project Management and Host
+  timeline: "Aug 2023 - Present"
+  summary: "[La vélodie du bonheur](/posts/entertainement/velodie)"
+  tags: ["personnal","entertainement","bike"]
+
+- name: The Talking Tree
+  logo: /images/sections/projects/tree.png
+  role: Maker and Developper
+  timeline: "Aug 2023"
+  summary: "[The Talking Tree](/posts/light/talking-tree)"
+  tags: ["personnal","light","interactive"]
+
+- name: NATO
+  logo: /images/sections/projects/nato.png
+  role: Developper
+  timeline: "Apr 2023 - Present"
+  summary: "[NATO](/posts/software-control-room/nato)"
+  tags: ["professional","softwarecontrolroom"]
+
+- name: LED Bar Kit
+  logo: /images/sections/projects/ledbar.jpg
+  role: Maker and Developper
+  timeline: "Mar 2023 - Present"
+  summary: "[LED Bar Kit](/posts/light/led-bar-kit)"
+  tags: ["personnal","light","entertainement"]
+
+- name: The Quiz
+  logo: /images/sections/projects/quiz_logo.jpg
+  role: Maker, Developper and Host
+  timeline: "Jun 2022 - Present"
+  summary: "[The Quiz](/posts/entertainement/quiz)"
+  tags: ["personnal","entertainement","softwarecontrolroom"]
+
+- name: Jean Luge
+  logo: /images/sections/projects/luge.jpg
+  role: Maker and Developper
+  timeline: "Fev 2022"
+  summary: "[Jean-Luge](/posts/light/jean-luge)"
+  tags: ["personnal","light","entertainement"]
 
 - name: EBU TouchDVE
   logo: /images/sections/projects/ebu.png
-  # image: /images/sections/projects/toha_website.png
   role: Developper
-  timeline: "Jun 2019 - Present"
+  timeline: "Oct 2021 - Present"
   summary: "[EBU TouchDVE](/posts/software-control-room/ebu)"
   tags: ["professional","softwarecontrolroom"]
 
 - name: RTBF CR42
   logo: /images/sections/projects/cr42.png
-  # image: /images/sections/projects/toha_website.png
   role: Developper
-  timeline: "Jun 2019 - Present"
+  timeline: "Apr 2021 - Juin 2022"
   summary: "[RTBF CR42](/posts/software-control-room/rtbf-cr42)"
   tags: ["professional","softwarecontrolroom"]
-
-- name: NATO
-  logo: /images/sections/projects/nato.png
-  # image: /images/sections/projects/toha_website.png
-  role: Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[NATO](/posts/software-control-room/nato)"
-  tags: ["professional","softwarecontrolroom"]
-
-- name: DanSing
-  logo: /images/sections/projects/dansing.png
-  # image: /images/sections/projects/toha_website.png
-  role: Owner Developper and Entertainer
-  timeline: "Jun 2019 - Present"
-  summary: "[Dan Sing - Mobile Karaoke](/posts/audio/dansing)"
-  tags: ["personnal","audio","entertainement"]
-
-- name: Sound Systems
-  logo: /images/sections/projects/speaker.webp
-  # image: /images/sections/projects/toha_website.png
-  role: Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Mobile Sound Systems](/posts/audio/sound-systems)"
-  tags: ["personnal","audio","entertainement"]
-
-- name: Bright Dan
-  logo: /images/sections/projects/brightdan.png
-  # image: /images/sections/projects/toha_website.png
-  role: Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Bright Dan - Light Magic](/posts/light/light-summary)"
-  tags: ["personnal","light","entertainement"]
-
-- name: LED Display
-  logo: /images/sections/projects/led.webp
-  # image: /images/sections/projects/toha_website.png
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[LED Display](/posts/light/led-display)"
-  tags: ["personnal","light","entertainement"]
-
-- name: LED Bar Kit
-  logo: /images/sections/projects/ledbar.jpg
-  # image: /images/sections/projects/toha_website.png
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[LED Bar Kit](/posts/light/led-bar-kit)"
-  tags: ["personnal","light","entertainement"]
-
-- name: Jean Luge
-  logo: /images/sections/projects/luge.jpg
-  # image: /images/sections/projects/toha_website.png
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[Jean-Luge](/posts/light/jean-luge)"
-  tags: ["personnal","light","entertainement"]
-
-- name: The Container
-  logo: /images/sections/projects/container.jpg
-  # image: /images/sections/projects/toha_website.png
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[The Container](/posts/light/container)"
-  tags: ["personnal","light","entertainement"]
-
-- name: The Talking Tree
-  logo: /images/sections/projects/tree.png
-  # image: /images/sections/projects/toha_website.png
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[The Talking Tree](/posts/light/talking-tree)"
-  tags: ["personnal","light","entertainement"]
-
-- name: Camping 58
-  logo: /images/sections/projects/camping.jpg
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[Camping 58](/posts/light/camping-58)"
-  tags: ["personnal","light","entertainement"]
-
-- name: Jacqueline / Chiva
-  logo: /images/sections/projects/brightdan.png
-  role: Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Jacqueline/Chiva](/posts/light/jacqueline-chiva)"
-  tags: ["personnal","light"]
-
-- name: Photobooth
-  logo: /images/sections/projects/photobooth.jpg
-  role: Maker and Developper
-  timeline: "Jun 2019 - Present"
-  summary: "[Photobooth](/posts/interactive/photobooth)"
-  tags: ["personnal","interactive"]
 
 - name: Viva for life Bike
   logo: /images/sections/projects/bike.jpg
   role: Maker and Developper
-  timeline: "Jun 2019 - Present"
+  timeline: "Fev 2021"
   summary: "[Viva for life Bike](/posts/interactive/viva-for-life)"
-  tags: ["personnal","interactive"]
+  tags: ["personnal","interactive","bike"]
 
-- name: The Quiz
-  logo: /images/sections/projects/quiz.jpg
-  role: Maker, Developper and Host
-  timeline: "Jun 2019 - Present"
-  summary: "[The Quiz](/posts/entertainement/quiz)"
-  tags: ["personnal","entertainement"]
+- name: DanSing
+  logo: /images/sections/projects/dansing.png
+  role: Owner Developper and Entertainer
+  timeline: "2021 - Present"
+  summary: "[Dan Sing - Mobile Karaoke](/posts/audio/dansing)"
+  tags: ["personnal","audio","entertainement","softwarecontrolroom"]
 
-- name: La vélodie du bonheur
-  logo: /images/sections/projects/bike.jpg
-  role: Project Management and Host
-  timeline: "Jun 2019 - Present"
-  summary: "[La vélodie du bonheur](/posts/entertainement/velodie)"
-  tags: ["personnal","entertainement"]
-
-- name: Schweitz'air Festival
-  logo: /images/sections/projects/festival.png
-  role: Project Management and Maker
-  timeline: "Jun 2019 - Present"
-  summary: "[Schweitz'air Festival](/posts/entertainement/schweitzair)"
-  tags: ["personnal","woodworking"]
+- name: LED Display
+  logo: /images/sections/projects/led.webp
+  role: Maker and Developper
+  timeline: "Sep 2019 - Mar 2021"
+  summary: "[LED Display](/posts/light/led-display)"
+  tags: ["personnal","light","entertainement"]
 
 - name: Workbench
   logo: /images/sections/projects/screwdriver.png
   role: Project Management and Maker
   timeline: "Jun 2019 - Present"
-  summary: "[Schweitz'air Festival](/posts/entertainement/schweitzair)"
+  summary: "[Schweitz'air Festival](/posts/woodworking/workbench)"
   tags: ["personnal","woodworking"]
+
+- name: The Container
+  logo: /images/sections/projects/container.jpg
+  role: Maker and Developper
+  timeline: "Jun 2019"
+  summary: "[The Container](/posts/light/container)"
+  tags: ["personnal","light","entertainement"]
+
+- name: Bright Dan
+  logo: /images/sections/projects/brightdan.png
+  role: Maker
+  timeline: "Jun 2019 - Present"
+  summary: "[Bright Dan - Light Magic](/posts/light/light-summary)"
+  tags: ["personnal","light","entertainement"]
+
+- name: Schweitz'air Festival
+  logo: /images/sections/projects/festival.png
+  role: Project Management and Maker
+  timeline: "Sep 2016 - Jun 2020"
+  summary: "[Schweitz'air Festival](/posts/woodworking/schweitzair)"
+  tags: ["personnal","woodworking"]
+
+- name: Sound Systems
+  logo: /images/sections/projects/speaker.webp
+  role: Maker
+  timeline: "2010 - Present"
+  summary: "[Mobile Sound Systems](/posts/audio/sound-systems)"
+  tags: ["personnal","audio","entertainement"]

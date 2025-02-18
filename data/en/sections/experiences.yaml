@@ -20,11 +20,12 @@ experiences:
   - designation: Video Processing Developer - Freelance
     start: Mar 2023
     responsibilities:
-    - Developed various tools to assist the AVI department's modernization
-    - Conference Speech Management system.
+    - Developed various tools to assist the AVI department's modernization.
+    - Conference Speech Management tool.
     - Live Content Manager (PIP, Audio routing, Lower Thirds, live AI subtitles,..)
-    - Visitors Meeting Schedule Display system.
-    - R&D on new approach to centralized infrastructure management.
+    - Visitor's Meeting Schedule Display system.
+    - R&D on Meeting Orchestrator technology.
+    - <a href="posts/software-control-room/nato">Read more about the projects here !</a>
 
 - company:
     name: EBU (European Broadcasting Union)
@@ -36,34 +37,36 @@ experiences:
   - designation: Video Processing Developer - Freelance
     start: Oct 2021
     responsibilities:
-    - Occasional developpement work on various projects, including maintenance tasks.
+    - Occasional developpement work on various AV projects.
     - Advanced Picture-in-picture tools for integrating multiple video feeds.
-    - Multi output Picture in Picture rundown management tools.
-    - Color correction
-    - Live cropping for real-time video adjustments.
+    - Multi output Picture-in-Picture rundown management tools.
+    - Color correction and Live cropping for real-time video adjustments.
+    - <a href="posts/software-control-room/ebu">Read more about the projects here !</a>
 
 - company:
     name: RTBF - CR42
-    url: "#"
+    url: "https://www.rtbf.be/"
     location: Brussels
     logo: /images/sections/experiences/logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/rtbf.jpg
-    overview: RTBF is a leading broadcasting company in Belgium, known for its innovative content production.
+    overview: RTBF is a public service broadcaster for the French-speaking Community of Belgium.
   positions:
   - designation: Software Developer, Trainer - Freelance
     start: Apr 2021
     end: Jun 2022
     responsibilities:
-    - Development of a universal live content production control room prototype.
+    - Development of an award wining Software Control Room Prototype. 
     - Software development of a central control core (TouchDesigner, Python).
-    - Integration of equipment APIs (Cameras, Audio Core, MIDI controllers, IP controllers, etc.).
-    - Creation of user interfaces (OpenStageControl) in agile cycles with end-users.
+    - Integration of equipment APIs (Cameras, Audio Processor, SDI Matrix, MIDI controllers, IP controllers, ...).
+    - Creation of WebBased user interfaces (OpenStageControl) in agile cycles with end-users.
     - Internal training on the tool (support and development teams).
+    - <a href="posts/software-control-room/rtbf-cr42">Read more about the project here !</a>
+
 
 - company:
-    name: JobYourself
-    url: "#"
+    name: JobYourself - Entrepreneur
+    url: "https://jobyourself.be/"
     location: Brussels
     logo: /images/sections/experiences/jobyourself.png
     # Can optionally show a different logo for dark theme
@@ -79,8 +82,9 @@ experiences:
     - Scripted generation of 2D and 3D files for enclosures (DXF, FreeCAD, Python).
     - LED mapping and real-time control (TouchDesigner).
     - Generation of preview videos for screens displaying content (TouchDesigner).
-    - Development of a controller for file playback or streaming (Teensy, C, ArtNet).
-    - Marketing, market analysis, client meetings, financial planning, BMC, etc. (via PrépaJobYourself).
+    - Development of a controller for video file playback or streaming (Teensy, C, ArtNet).
+    - Marketing, market analysis, client meetings, financial planning, BMC
+    - <a href="posts/light/led-display">Read more about the projects here !</a>
 
 - company:
     name: Productize - The IoT agency
@@ -108,45 +112,45 @@ experiences:
     logo: /images/sections/experiences/st.png
     # Can optionally show a different logo for dark theme 
     # darkLogo: /images/sections/experiences/studiotech.jpg
-    overview: Studiotech specializes in audio and video rack assembly and on-site maintenance.
+    overview: Studiotech develops, integrates and distributes complete audiovisual solutions.
   positions:
   - designation: Application Engineer
     start: May 2017
     end: Aug 2017
     responsibilities:
-    - Audio and video rack assembly, cabling, workshop work.
+    - Audio and video rack assembly, cabling,...
     - On-site maintenance (Algeria, France).
 
 - company:
     name: Schweitz’air ASBL
-    url: "#"
+    url: "https://www.facebook.com/profile.php?id=100064859763842"
     location: Brussels
     logo: /images/sections/experiences/festival.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/schweitzair.jpg
-    overview: Schweitz’air ASBL is a non-profit organization focusing on logistical improvements and construction projects.
+    overview: Schweitz’air ASBL was a non-profit involved in organizing music events (festivals and others).
   positions:
   - designation: Technical Manager / Facilities
     start: Sep 2016
     end: Jun 2020
     responsibilities:
-    - Proposal of logistical improvement ideas.  
+    - Logistical improvement ideas (modular bar, LED signage).
     - Furniture design, 3D and 2D plans (Sketchup, Fusion 360).
-    - Organization of "Construction Days" with over 10 people.
-    - Material costing and purchasing.
-    - Tool rental/borrowing.
-    - Briefing and supervision of work progress.
+    - Organization of “build days” with over 10 people.
+    - Briefing and supervision of construction team.
+    - Costing and purchasing of materials.
+    - Managed tool hire and borrowing.
 
 - company:
-    name: Divers - Freelance, MySherpa, Qwerteach, ZappySchool
+    name: Various - Freelance, MySherpa, Qwerteach, ZappySchool
     url: "#"
     location: Brussels
     logo: /images/sections/experiences/mysherpa.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/freelance.jpg
-    overview: Provided private tutoring in various subjects
+    overview: Provided private lessons in various subjects
   positions:
-  - designation: Private Tutor
+  - designation: Private and group teacher
     start: Jul 2011
     end: May 2017
     responsibilities:
@@ -160,7 +164,7 @@ experiences:
     logo: /images/sections/experiences/uclouvain.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/ucl.jpg
-    overview: UCL is a renowned university in Belgium, known for its engineering and research programs.
+    overview: UCLouvain is Belgium's largest French-speaking university and one of the oldest in Europe.
   positions:
   - designation: Robotics Engineer (Intern)
     start: Sep 2013
@@ -171,12 +175,12 @@ experiences:
 
 - company:
     name: Alpha Electronics
-    url: "#"
+    url: "https://alphaelectronics.be/"
     location: Belgium
     logo: /images/sections/experiences/alpha.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/alpha_electronics.jpg
-    overview: Alpha Electronics focuses on the development of electronic controllers and emulators.
+    overview: Alpha Electronics Europe is an SME active in the field of custom electronic and electronic signage.
   positions:
   - designation: Embedded Electronics Engineer (Intern)
     start: Mar 2012

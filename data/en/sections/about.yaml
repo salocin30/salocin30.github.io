@@ -8,30 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Electronic Engineer turned Software Developper and Maker
+designation: Electronic Engineer turned AV Innovator, Maker and Entertainer.
 # your company information
 
 # company:
 #   name: Example Co.
 #   url: "https://www.example.com"
 
-
-
 # a summary about you
-summary: 'As a software developper, I specialize in creating tools for the Broadcast and Pro AV industries. Those includes software control room, audio and video processing solutions, web based user interfaces. My clients includes :
+summary: "<br>Hi ! I am Nicolas, Creative Technologist.<br><br>
+
+I have a strong electronic and hardware background that I combine with software developpement and web technologies to cover all edges of technology. Sort of a fullstack maker.<br><br>
+
+My field of expertiste is developping __custom software__ for the __Broadcast__ and __Pro AV__ industries. Those includes __Software Control Rooms__, __Audio and Video processing backends__, __Web Based Control Interfaces__. Some projects I've worked on :
 <ul>
-  <li>RTBF - award wining [CR42](/posts/software-control-room/rtbf-cr42) software control room project</li>
-  <li>European Broadcast Union - [video compositing tool](/posts/software-control-room/ebu)</li>
-  <li>NATO - [conference center tools](/posts/software-control-room/nato)</li>
+  <li>[RTBF - CR42 - award wining software control room project](/posts/software-control-room/rtbf-cr42)</li>
+  <li>[European Broadcast Union - video compositing tool](/posts/software-control-room/ebu)</li>
+  <li>[NATO - Conference Center Innovation](/posts/software-control-room/nato)</li>
 </ul>
-As a maker, I build objects that combine light and sound and are often portable and battery powered. They offer unique experiences to the people who interacts with them. Have a look at those fun projects :<br><br>
+<br>On the side, I create projects that combine __light and sound__ and are often __portable and battery powered__. 
+With the intent of being interactive, they offer unique experiences to their public. Some of them allow me to __host fun and entertaining events__. Have a look at some of them :<br><br>
 <ul>
   <li>[The Talking Tree](/posts/light/talking-tree)</li>
   <li>[Dansing - Mobile Bike Karaoke](/posts/audio/dansing)</li>
   <li>[Bright Dan - LED magic](/posts/light/light-summary)</li>
 </ul>
-
-Or check the [project summary](/posts/project-summary) for a global view'
+<br>
+You can also check the [project summary](/posts/project-summary) for a global view of all my projects."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

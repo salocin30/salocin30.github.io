@@ -15,7 +15,7 @@ degrees:
   timeframe: 2015-2016
   institution:
     name: Institut Roger Guilbert
-    url: "#"
+    url: "https://guilbert.brussels/"
     logo: /images/sections/education/roger.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/institut_roger_guilbert.jpg
@@ -51,12 +51,12 @@ degrees:
   #   - name: Supervisor
   #     content: Fusce eu augue ut odio porttitor pulvinar.
 
-- name: Master Degree Industrial Engineering - Electronic
+- name: Master Degree - Industrial Engineering - Electronic | Grande Distinction
   icon: fa-university
   timeframe: 2009-2014
   institution:
     name: ECAM
-    url: "#"
+    url: "https://www.ecam.be/"
     logo: /images/sections/education/ecam.webp
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/ecam.jpg
@@ -64,13 +64,14 @@ degrees:
     scale: GPA
     achieved: 83
     outOf: 100
+    
   extracurricularActivities: #(optional)
   - Scout Leader
   customSections: #(optional)
     - name: Thesis
       content: Instrumentation, Modeling and Control of a Cylindrical Robot.
 
-- name: Secondary School Certificate
+- name: Secondary School Certificate - Science
   icon: fa-school
   timeframe: 2002-2010
   institution:
