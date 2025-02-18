@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Control Room on Nicolas Segui - Portfolio and Blog</title><link>https://salocin30.github.io/posts/software-control-room/</link><description>Recent content in Software Control Room on Nicolas Segui - Portfolio and Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://salocin30.github.io/posts/software-control-room/index.xml" rel="self" type="application/rss+xml"/><item><title>EBU</title><link>https://salocin30.github.io/posts/software-control-room/ebu/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/software-control-room/ebu/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Control Room on Nicolas Segui</title><link>https://salocin30.github.io/posts/software-control-room/</link><description>Recent content in Software Control Room on Nicolas Segui</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://salocin30.github.io/posts/software-control-room/index.xml" rel="self" type="application/rss+xml"/><item><title>EBU</title><link>https://salocin30.github.io/posts/software-control-room/ebu/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/software-control-room/ebu/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
@@ -52,6 +52,7 @@ class="center"
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
+&lt;p>&lt;a href="https://tech.ebu.ch/news/2021/03/cr42-the-control-room-reimagined">EBU award wining&lt;/a>&lt;/p>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
 &lt;img src="https://salocin30.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"

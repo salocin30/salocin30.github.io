@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audio on Nicolas Segui - Portfolio and Blog</title><link>https://salocin30.github.io/posts/audio/</link><description>Recent content in Audio on Nicolas Segui - Portfolio and Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://salocin30.github.io/posts/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>Battery</title><link>https://salocin30.github.io/posts/audio/battery/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/audio/battery/</guid><description>&lt;h2 id="my-deep-love-for-music-and-sound">My deep love for music and sound&lt;/h2>
-&lt;p>For as long as I can remember, I&amp;rsquo;ve always been fascinated by sound reproduction. &lt;br>
-Seeing a cone of paper moving back and forth, pushing air up to my ears blablabla.&lt;/p>
-&lt;h2 id="early-experiments">Early experiments&lt;/h2>
-&lt;h3 id="le-gros-baffle">&amp;ldquo;Le Gros baffle&amp;rdquo;&lt;/h3>
-&lt;ul>
-&lt;li>my excitment for my first thomann order&lt;/li>
-&lt;li>find pictures of it, scout pix &amp;hellip; ?&lt;/li>
-&lt;/ul>
-&lt;h3 id="danny-blaster">Danny blaster&lt;/h3>
-&lt;p>&lt;img src="https://salocin30.github.io/posts/audio/sound-systems/images/dannyblaster_amp.jpg"
-alt="Amp"
-class="center"
->
-Sure Electronics, that would later become Wondom, powering my projects from the begining.&lt;br>&lt;br>&lt;br>&lt;br>
-&lt;img src="https://salocin30.github.io/posts/audio/sound-systems/images/dannyblaster_front.jpg"
-alt="Front"
-class="center"
->
-&lt;/p></description></item><item><title>Dansing - Bike Karaoke</title><link>https://salocin30.github.io/posts/audio/dansing/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/audio/dansing/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audio on Nicolas Segui</title><link>https://salocin30.github.io/posts/audio/</link><description>Recent content in Audio on Nicolas Segui</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://salocin30.github.io/posts/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>Battery</title><link>https://salocin30.github.io/posts/audio/battery/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/audio/battery/</guid><description>&lt;a href="https://salocin30.github.io/posts/audio/sound-systems">Mobile Sound Systems&lt;/a></description></item><item><title>Dansing - Bike Karaoke</title><link>https://salocin30.github.io/posts/audio/dansing/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://salocin30.github.io/posts/audio/dansing/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
